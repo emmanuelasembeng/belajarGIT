@@ -17,3 +17,5 @@ Daftar tugas / branch
 - git commit: untuk menyimpan perubahan yang telah ditambahkan ke staging area.
 - git merge: untuk menggabungkan perubahan dari satu branch ke branch lainnya.
 - git push: untuk mengirimkan perubahan lokal ke repository remote.
+
+Tugas-git
